@@ -20,5 +20,5 @@
 **Contact:**
 
 * **Email:** shashikanthreddy8639@gmail.comm
-* **LinkedIn:** [https://www.linkedin.com/in/shashikanth-reddy-8b8881259/]
-* **LeetCode:** [https://leetcode.com/u/ShashikanthReddy23/]
+* **LinkedIn:** https://www.linkedin.com/in/shashikanth-reddy-8b8881259/
+* **LeetCode:** https://leetcode.com/u/ShashikanthReddy23/
